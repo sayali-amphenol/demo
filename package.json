@@ -1,0 +1,11 @@
+{
+  "name": "amphenol-homepage",
+  "private": true,
+  "description": "Amphenol Network Solutions homepage prototype. No build step: open index.html.",
+  "scripts": {
+    "test": "playwright test"
+  },
+  "devDependencies": {
+    "@playwright/test": "1.63.0"
+  }
+}
